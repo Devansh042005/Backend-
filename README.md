@@ -1,5 +1,3 @@
-# Backend-
-
 # Backend Project with Node.js, Express.js, and MongoDB
 
 This repository contains a backend application built using **Node.js**, **Express.js**, and **MongoDB**. The project follows RESTful API principles and serves as a foundation for backend development.
